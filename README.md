@@ -14,8 +14,8 @@
 
 <ul>
 <li>
-  <a href="https://github.com/RashadHagen/Microsoft-365-Get-To-Any-Admin-Center">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft 365 – Get To Any Admin Center</strong>
+  <a href="https://github.com/RashadHagen/Microsoft-Azure-Create-A-Virtual-Machine">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Azure – Create A Virtual Machine</strong>
   </a>
   <br/>
 </li>
