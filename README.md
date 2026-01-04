@@ -31,7 +31,7 @@
 <ul>
 <li>
   <a href="https://github.com/RashadHagen/How-To-Open-Microsoft-Entra-ID-From-PortaldotAzuredotcom">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Azure - How To Open Microsoft Entra ID From PortaldotAzuredotcom</strong>
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Azure - How To Open Microsoft Entra ID From Portal.Azure.com</strong>
   </a>
   <br/>
 </li>
