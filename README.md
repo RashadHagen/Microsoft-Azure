@@ -76,13 +76,3 @@
   <br/>
 </li>
 </ul>
-
-
-<ul>
-<li>
-  <a href="https://github.com/RashadHagen/Microsoft-Entra-ID-Implement-Management-Groups">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Entra ID – Implement Management Groups</strong>
-  </a>
-  <br/>
-</li>
-</ul>
