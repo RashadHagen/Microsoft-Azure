@@ -94,3 +94,13 @@
   <br/>
 </li>
 </ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Microsoft-Azure-Management-Groups-Assign-And-Review-A-Built-In-Azure-Role">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Azure Management Groups – Assign And Review A Built-In Azure Role</strong>
+  </a>
+  <br/>
+</li>
+</ul>
